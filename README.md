@@ -1,7 +1,7 @@
 ## Challenge
 In this challenge you are expected to train a classifier that will be able to classify medium articles into one of three categories: 'software-development', 'artificial-intelligence' and 'ux'.
 
-We provide a dataset of medium articles which have to be tagged to corresponding topics (software-development, artificial intelligence, Ui/UX). Along with articles we have subscriptions lists. The subscription lists are reading lists and the articles may be related by common subscription lists. The goal is to exploit this naturally occurring network structure for classifying articles to topics. Hence, it is a 3-way node classification task. ![alt text](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox/1038279/e1b31e39b30e8dedd0bb353acf0e5184/Screenshot%202024-01-09%20at%209.24.21%20AM.png?generation%3D1705338423579897%26alt%3Dmedia)![alt text](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox/1038279/908a67a1a85e5fd5d5ef6d4753aff3a2/Screenshot%202024-01-15%20at%201.03.59%20PM.png?generation%3D1705338220893553%26alt%3Dmedia)
+We provide a dataset of medium articles which have to be tagged to corresponding topics (software-development, artificial intelligence, Ui/UX). Along with articles we have subscriptions lists. The subscription lists are reading lists and the articles may be related by common subscription lists. The goal is to exploit this naturally occurring network structure for classifying articles to topics. Hence, it is a 3-way node classification task. 
 
 
 ## Addition
